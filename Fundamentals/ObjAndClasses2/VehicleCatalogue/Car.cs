@@ -1,0 +1,6 @@
+﻿namespace VehicleCatalogue
+{
+    class Car
+    { }
+
+}
